@@ -12,7 +12,7 @@ import java.sql.ResultSet;
 
 /**
  *
- * @author Giancarlo
+ * @author Raul
  */
 public class PacienteDAL {
    
