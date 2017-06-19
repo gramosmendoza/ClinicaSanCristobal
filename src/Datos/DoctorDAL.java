@@ -15,7 +15,7 @@ import java.sql.ResultSet;
  * @author Giancarlo
  */
 public class DoctorDAL {
-    
+    //Demo Walter
     private static DoctorDAL instance=new DoctorDAL();
 
     private DoctorDAL() {
