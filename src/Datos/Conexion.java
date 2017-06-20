@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Raul
+ * @author Raul Ocola
  */
 public class Conexion {
     
